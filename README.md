@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats]
-(https://github-readme-stats.vercel.app/apiusername=hataYK&show_icons=true&theme=buefy)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hataYK&show_icons=true&theme=transparent)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=hataYK)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <!--
