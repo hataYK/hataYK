@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://git-hub-readme-stats-clone-kfcq.vercel.app/api?username=hataYK&show_icons=true&theme=buefy)
+![Anurag's GitHub stats](https://git-hub-readme-stats-clone-kfcq.vercel.app/api?username=hataYK&show_icons=true&theme=dark)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=hataYK&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
 
