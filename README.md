@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://git-hub-readme-stats-clone-kfcq.vercel.app/api?username=hataYK&show_icons=true&theme=dark)
+<p align="left"> 
+  <img alt="github stats" height="150px" src="https://git-hub-readme-stats-clone-kfcq.vercel.app/api?username=hataYK&theme=dark&show_icons=ture" />
+  <img alt="Top Langs" height="150px" src="https://git-hub-readme-stats-clone-kfcq.vercel.app/api/top-langs/?username=hataYK&layout=compact&show_icons=true&theme=onedark" />
+</p>
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=hataYK&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
 
